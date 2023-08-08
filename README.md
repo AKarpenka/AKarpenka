@@ -52,4 +52,4 @@
 # 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=AKarpenka&theme=tokyonight&hide_border=true&mode=weekly&card_width=400)](https://git.io/streak-stats)
-![Stasy's GitHub stats](https://github-readme-stats.vercel.app/api?username=AKarpenka&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github)
+![Stasy's GitHub stats](https://github-readme-stats.vercel.app/api?username=AKarpenka&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github&card_width=400px)
