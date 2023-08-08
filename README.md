@@ -1,5 +1,5 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExam9lZXhxbW5mNHh2ejQ3cm1lMm4zdmhrNHpkdHBzMDJpeTc1cXM2cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="450"/>
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExam9lZXhxbW5mNHh2ejQ3cm1lMm4zdmhrNHpkdHBzMDJpeTc1cXM2cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="350"/>
 </div>
 
 <div id="badges" align="center">
@@ -15,6 +15,7 @@
 </div>
 
 # 
+
 ### Hi there!
 
 * I'm a Frontend/Full-stack developer with 4+ years of commercial experience. 
@@ -48,4 +49,7 @@
   <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" alt="Illustrator Badge"/>
 </div>
 
+# 
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=AKarpenka&theme=tokyonight&hide_border=true&mode=weekly)](https://git.io/streak-stats)
+![Stasy's GitHub stats](https://github-readme-stats.vercel.app/api?username=AKarpenka&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github)
