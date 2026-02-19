@@ -18,7 +18,7 @@
 
 ### Hi there!
 
-* I'm a Frontend/Full-stack developer with 5+ years of commercial experience. 
+* I'm a Frontend/Full-stack developer with 6+ years of commercial experience. 
 * A generator of new ideas and a user of innovative technologies, especially those that can automate repetitive, routine tasks to save people valuable time.
 * Experienced in working both individually and in a large international team.
 * In love with cats and programming.
